@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kalaiarasu</h1>
+<h1>Hi 👋, I'm Kalaiarasu Balakrishnan</h1>
 <p>Backend and Frontend Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
